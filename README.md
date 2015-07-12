@@ -1,6 +1,6 @@
 # Terminal
 
-As a UNIX OS base user I :love: terminal, and I am here to share some ninjutsu that I use.
+As a UNIX OS base user I :heart: terminal, and I am here to share some ninjutsu that I use.
 
 ## MPlayerX Playlist
 
